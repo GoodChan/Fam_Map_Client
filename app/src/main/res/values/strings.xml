@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fam_Map_Client</string>
+    <string name="ServerHostText">Server Host:</string>
+    <string name="ServerPortText">Server Port:</string>
+    <string name="UserNameText">User Name:</string>
+    <string name="PasswordText">Password:</string>
+    <string name="FirstNameText">First Name:</string>
+    <string name="LastNameText">Last Name:</string>
+    <string name="EmailText">Email:</string>
+    <string name="GenederText">Gender:</string>
+    <string name="Password">parker</string>
+    <string name="ServerPort">8080</string>
+    <string name="UserName">sheila</string>
+    <string name="FirstName">Chandra</string>
+    <string name="LastName">Goodell</string>
+    <string name="Email">Goodie@goodell.com</string>
+    <string name="RadioFemale">Female</string>
+    <string name="RadioMale">Male</string>
+    <string name="title_activity_main_map_fragment">Map</string>
+    <string name="filter_fam_map">Filter</string>
+    <string name="search_fam_map">Search</string>
+    <string name="settings_fam_map">Settings</string>
+</resources>
